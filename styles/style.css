@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+     box-sizing: border-box;
+}
+
+body {
+    background-color: #FEDB25;
+}
+
+.container {
+    margin: auto;
+    max-width: 1600px;
+    background-color: white;
+    padding: 20px;
+    font-family: 'Arial';
+    font-size: 32px;
+}
+
+header {
+    border-bottom: 5px solid #FEDB25;
+}
+
+main {
+    margin-top: 30px;
+    font-family: 'Arial';
+    font-size: 24px;
+}
+
+
+.white-box {
+    height: 900px;
+}
+
+.list-of-homeworks {
+    margin: 20px;
+    font-size: 28px;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.link:hover {
+    background-color: #FEDB25;
+}
+
+.link:visited {
+    color: grey;
+}
+
+.link:active {
+    color: red;
+}
